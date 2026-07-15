@@ -1,4 +1,4 @@
-Привет! Добро пожаловать в Ryzen v5.0 Private!
+Привет! Добро пожаловать в Ryzen v5.4 Private!
 
 [+] Добавлен легитный ESP Chams (без лагов)
 [+] Добавлен NoRecoil и TriggerBot
